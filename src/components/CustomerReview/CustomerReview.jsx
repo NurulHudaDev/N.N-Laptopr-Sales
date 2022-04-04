@@ -7,7 +7,7 @@ const CustomerReview = (props) => {
     console.log(props);
     return (
       <Col>
-        <Card className="h-100 bg-farhan">
+        <Card className="h-100 bg-farhan card">
           <Card.Img height="250" variant="top" src={img} className="p-y" />
           <Card.Body>
             <Card.Title>{name}</Card.Title>
