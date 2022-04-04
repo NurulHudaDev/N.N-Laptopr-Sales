@@ -15,7 +15,7 @@ const SliceReviewDisplay = (props) => {
             <p>{description}</p>
 
             <p className='text'>
-              Rating :
+              Rating : {rating}
               <Rating
                 className="rating"
                 placeholderRating={rating}

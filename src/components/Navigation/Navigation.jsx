@@ -24,7 +24,7 @@ const Navigation = () => {
                 src="https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
                 alt=""
               />
-              <i className="fs-3 fw-bold ">
+              <i className="fs-3 fw-bold">
                 <span className="text-color">Laptop</span><span className="word-color"> BD Zone</span>
               </i>
             </Navbar.Brand>
