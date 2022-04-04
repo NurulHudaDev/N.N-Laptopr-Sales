@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Rabeka Putul",
+    "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 5,
+    "description": "While the best MacBook for each person will differ, there's a great option for virtually anyone in Apple's laptop lineup today."
+  },
+  {
+    "id": 2,
+    "name": "Rakibul Hasan",
+    "img": "https://images.pexels.com/photos/997489/pexels-photo-997489.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "rating": 4,
+    "description": "While the best MacBook for each person will differ, there's a great option for virtually anyone in Apple's laptop lineup today. "
+  },
+  {
+    "id": 3,
+    "name": "Md Rabbi",
+    "img": "https://images.pexels.com/photos/1808398/pexels-photo-1808398.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "rating": 5,
+    "description": "While the best MacBook for each person will differ, there's a great option for virtually anyone in "
+  },
+  {
+    "id": 4,
+    "name": "Nurul Huda",
+    "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "rating": 5,
+    "description": "While the best MacBook for each person will differ, there's a great option for  in 2020 kicked "
+  },
+  {
+    "id": 3,
+    "name": "Md Shipon",
+    "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "rating": 4,
+    "description": "While the best MacBook for each  M1 chip in the MacBook Air and MacBook Pro 13-inch in 2020 kicked "
+  },
+  {
+    "id": 6,
+    "name": "Nahidul Islam",
+    "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "rating": 5,
+    "description": "While the best MacBook for each person will differ, there's a great option for  chip in the MacBook Air and MacBook Pro 13-inch in 2020 kicked "
+  }
+]

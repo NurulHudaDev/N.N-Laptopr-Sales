@@ -1,0 +1,28 @@
+.special-place {
+    background-color: #0f0e17;
+    padding: 50px 0;
+}
+.text-content{
+    font-weight: bold ;
+    text-align: justify;
+}
+p{
+    text-align: justify;
+}
+.color-text{
+    color: rgb(106, 4, 202);
+}
+.button-style {
+    margin: 15px 0;
+    padding: 18px 40px;
+    color: #fffffe;
+    background-color: rgb(6, 94, 97);
+    border: 2px solid #055258;
+    border-radius: 50px;
+}
+.button-style:hover {
+    background-color: #07a0ab;
+}
+.special-place img {
+    margin-top: 15px;
+}
