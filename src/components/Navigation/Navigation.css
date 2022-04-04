@@ -5,18 +5,25 @@
   margin-right: 5px;
 }
 .style-color{
-    background-color: rgb(22, 22, 50);
+  background-color: #fff;
+  box-shadow: 0px 1px 2px 0px rgba(0,255,255,0.7),
+  1px 2px 4px 0px rgba(0,255,255,0.7),
+  2px 4px 8px 0px rgba(0,255,255,0.7),
+  2px 4px 16px 0px rgba(0,255,255,0.7);
 }
 .navbar-style a{
-  color: white !important;
+  color: black !important;
   font-weight: 500;
 }
 .navbar-style a:hover{
-  color: orangered!important;
+  color: orange!important;
   font-weight: 500;
 }
+.text-color{
+  color: black;
+}
 .word-color {
-  color: #ff8906;
+  color: orange;
 }
 
 
