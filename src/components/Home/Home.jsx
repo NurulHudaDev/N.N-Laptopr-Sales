@@ -35,7 +35,7 @@ const Home = () => {
           </Row>
         </div>
         <div>
-          <h1>this is reviews</h1>
+          <h1>This is reviews</h1>
           {/* <Row xs={1} md={3} className="g-4 ">
             {reviews.slice(0, 4).map((review) => (
               <CustomerReview review={review}></CustomerReview>

@@ -7,7 +7,7 @@ const SliceReviewDisplay = (props) => {
     console.log(props);
   
     return (
-        <Col>
+          <Col>
         <Card className="h-100 bg-farhan">
           <Card.Img height="250" variant="top" src={img} className="p-y" />
           <Card.Body>

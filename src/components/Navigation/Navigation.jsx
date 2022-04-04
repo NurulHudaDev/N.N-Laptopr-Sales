@@ -25,7 +25,7 @@ const Navigation = () => {
                 alt=""
               />
               <i className="fs-3 fw-bold">
-                <span className="text-color">Laptop</span><span className="word-color"> BD Zone</span>
+                <span className="text-color">N.N </span><span className="word-color">Laptopr Sales</span>
               </i>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
